@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="default_notification_channel_id">default</string>
+    <string name="notification">Create Notification</string>
+    <string name="notifyAct">This activity was launched by a notification.</string>
+    <string name="longMsg">I am creating a long message. I am creating a long message. I am creating a long message. I am creating a long message. I am creating a long message. I am creating a long message. I am creating a long message. I am creating a long message. I am creating a long message. </string>
+</resources>
